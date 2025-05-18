@@ -3,7 +3,7 @@ This is the repository where many great things will happen in an effort to decom
 ## Legal Disclaimers
 This repository contains only our own original source code. We do not bundle any textures, audio, or level files from the official game. You must supply your own. See more in the [LICENSE](https://github.com/LBPDecomp/LBP-Decomp/blob/main/LICENSE) file and at the bottom of this page.
 ## Why?
-This was initially created because of the custom server shutdown in 2025. An exploit was discovered where players could forcibly join others without any prior consent. This could allow malicious users to run custom scripts in the host's game without their permission and possibly corrupt the host's account, delete savedata, or even worse. This was created so that this security oversight can be fixed, allowing custom servers to run again and in the process make it much easier for the modding community to figure out how the game works and do their thing.
+Because.
 ## What have we done so far?
 Nothing except creating this repo, however this is a big first step!
 
