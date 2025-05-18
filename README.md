@@ -5,4 +5,4 @@ This was initially created because of the custom server shutdown in 2025. An exp
 ## What have we done so far?
 Nothing except creating this repo, however this is a big first step!
 
-*DISCLAIMER: This project is not affiliated with or endorsed by Sony Interactive Entertainment.*
+*DISCLAIMER: This project is not affiliated with or endorsed by Sony Interactive Entertainment. This repo does not include all assets necessary for compiling the games. A prior copy of the game is required to extract the assets.*
